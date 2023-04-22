@@ -19,6 +19,6 @@ Installing Jenkins in an AWS EC2 instance.
 
 **6. [Configuring Jenkins](./md/configuring-jenkins.md).**
 
-**7. [Pipeline example](./md/installing-jenkins.md).**
+**7. [Pipeline example](./md/pipeline-example.md).**
 
 -----------------------------------------------------------
