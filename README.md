@@ -7,18 +7,20 @@ Installing Jenkins in an AWS EC2 instance.
 
 -----------------------------------------------------------
 
-**1. [Security group](./md/security-group.md)**
+**1. [Security group](./docs/security-group.md)**
 
-**2. [EC2 instance](./md/ec2-instance.md).**
+**2. [EC2 instance](./docs/ec2-instance.md).**
 
-**3. [Installing Java and Maven](./md/installing-java.md).**
+**3. [Installing Java and Maven](./docs/installing-java.md).**
 
-**4. [Installing Docker](./md/installing-docker.md).**
+**4. [Installing Docker](./docs/installing-docker.md).**
 
-**5. [Installing Jenkins](./md/installing-jenkins.md).**
+**5. [Installing Jenkins](./docs/installing-jenkins.md).**
 
-**6. [Configuring Jenkins](./md/configuring-jenkins.md).**
+**6. [Configuring Jenkins](./docs/configuring-jenkins.md).**
 
-**7. [Pipeline example](./md/pipeline-example.md).**
+**7. [Pipeline example](./docs/pipeline-example.md).**
+
+**8. [Working with Sonarqube](./docs/sonarqube-configuration.md).**
 
 -----------------------------------------------------------
