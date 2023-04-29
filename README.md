@@ -23,4 +23,6 @@ Installing Jenkins in an AWS EC2 instance.
 
 **8. [Working with Sonarqube](./docs/sonarqube-configuration.md).**
 
+**9. [Running pipeline with Git, Maven and Sonarqube](./docs/pipeline-exaple-2.md).**
+
 -----------------------------------------------------------
